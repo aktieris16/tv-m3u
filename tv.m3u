@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#PLAYLIST:Master-Full-Cleaned-With-Baltics-And-XXX
+
 
 #EXTINF:-1 group-title="Федеральные и Новости",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
