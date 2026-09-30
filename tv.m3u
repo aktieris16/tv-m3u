@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2x2.ru@SD" group-title="Детские",2x2 (576i)
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
+#EXTINF:-1 tvg-id="Carousel.ru@SD" group-title="Детские",Carousel (576p)
+https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
+#EXTINF:-1 tvg-id="NickJr.ru@SD" group-title="Детские",Nick Jr. (576p)
+http://stream.mcquack.net/220/index.m3u8
+#EXTINF:-1 tvg-id="Mult.ru@SD" group-title="Детские",Mult (576p)
+http://stream.mcquack.net/232/index.m3u8
+#EXTINF:-1 tvg-id="TiJi.ru@SD" group-title="Детские",TiJi (576p)
+http://stream.mcquack.net/111/index.m3u8
+
+#EXTINF:-1 tvg-id="AmediaHit.ru@SD" group-title="Кино",Amedia Hit (1080p)
+http://stream.mcquack.net/162/index.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru@SD" group-title="Кино",Dom kino (576p)
+http://stream.mcquack.net/236/index.m3u8
+#EXTINF:-1 tvg-id="Kinopremyera.ru@SD" group-title="Кино",Kinopremyera (1080p)
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000.ru@SD" group-title="Кино",viju TV1000 (576p)
+http://stream.mcquack.net/110/index.m3u8
+#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" group-title="Кино",Mosfilm Gold Collection (576p)
+http://31.222.235.15/mosfilm/index.m3u8
+
+#EXTINF:-1 tvg-id="KHL.ru@SD" group-title="Спорт",KHL (576p)
+http://stream.mcquack.net/166/index.m3u8
+#EXTINF:-1 tvg-id="MatchArena.ru@SD" group-title="Спорт",Match! Arena (576p)
+http://stream.mcquack.net/163/index.m3u8
+#EXTINF:-1 tvg-id="MatchBoets.ru@SD" group-title="Спорт",Match! Boets (576p)
+http://stream.mcquack.net/112/index.m3u8
+#EXTINF:-1 tvg-id="OkkoSport.ru@SD" group-title="Спорт",Okko Sport (1080p)
+http://stream.mcquack.net/492/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSports1.ru@SD" group-title="Спорт",Setanta Sports 1
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+
+#EXTINF:-1 tvg-id="ChannelOne.ru@HD" group-title="Новости",Channel One HD (720p)
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-id="Russia24.ru@SD" group-title="Новости",Russia-24 (720p)
+https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
+#EXTINF:-1 tvg-id="RT.ru@HD" group-title="Новости",RT HD (1080p)
+http://31.148.48.15/RT_HD/index.m3u8
+#EXTINF:-1 tvg-id="Moskva24.ru@SD" group-title="Новости",Moskva 24 (1080p)
+https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
+
+#EXTINF:-1 tvg-id="Channel8Krasnoyarsk.ru@HD" group-title="Региональные",Channel 8 Krasnoyarsk HD (1080p)
+https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Enisey.ru@SD" group-title="Региональные",Enisey (576p)
+http://tshift-1.telecoma.tv/enisei/index.m3u8
+#EXTINF:-1 tvg-id="Groznyj.ru@SD" group-title="Региональные",Groznyj
+https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8
