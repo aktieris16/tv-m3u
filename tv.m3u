@@ -1,7 +1,8 @@
-
+#EXTM3U
+#PLAYLIST:Master-Full-Cleaned-With-Baltics-And-XXX
 
 #EXTINF:-1 group-title="Федеральные и Новости",Первый канал HD
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 group-title="Федеральные и Новости",Россия 1 HD
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 group-title="Федеральные и Новости",НТВ HD
@@ -52,7 +53,7 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 group-title="Федеральные и Новости",Соловьев.Live HD
-https://raw.githubusercontent.com/user/repo/master/dummy.m3u8
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 group-title="Федеральные и Новости",ДОЖДЬ
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные и Новости",Belsat TV
