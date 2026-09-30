@@ -3,9 +3,11 @@ import requests
 # Fails, kurā glabājas tavi esošie kanāli
 LOCAL_FILENAME = "mans_kanalu_saraksts.m3u"
 
-# Šeit ir pievienota saite no atrastās vietnes un vari pievienot citas saites
+# Visas tavas norādītās avotu adreses
 PLAYLIST_SOURCES = [
-    "https://smart-iptv.ru/russia.m3u",
+    "http://www.skynet.net.ua/iptv.m3u8",
+    "https://iptv.org.ua/iptv/avtomini.m3u",
+    "https://iptv-org.github.io/iptv/countries/ru.m3u"
 ]
 
 def check_url(url):
@@ -47,7 +49,7 @@ def aggregate_and_clean_all():
     all_channels = []
     epg_header = '#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"'
 
-    # 1. solis: Nolasām kanālus no TAVAS lokālās pleilistes
+    # 1. solis: Nolasām kanālus no TAVAS lokālās pleilistes (ja tāda eksistē)
     print(f"Nolasu vietējo failu: {LOCAL_FILENAME}...")
     try:
         with open(LOCAL_FILENAME, "r", encoding="utf-8") as f:
@@ -100,7 +102,7 @@ def aggregate_and_clean_all():
             print("❌ Nedarbojas — izmetam")
             dead_count += 1
 
-    # 4. solis: Saglabājam rezultātu atpakaļ tavā failā
+    # 4. solis: Saglabājam rezultātu failā
     with open(LOCAL_FILENAME, "w", encoding="utf-8") as f:
         f.write(f"{epg_header}\n")
         for inf, url in valid_channels:
