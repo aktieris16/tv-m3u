@@ -53,6 +53,7 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 group-title="Федеральные и Новости",Соловьев.Live HD
+https://raw.githubusercontent.com/user/repo/master/dummy.m3u8
 #EXTINF:-1 group-title="Федеральные и Новости",ДОЖДЬ
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные и Новости",Belsat TV
