@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#PLAYLIST:Master-Full-Combined-Baltics
+#PLAYLIST:Master-Full-Cleaned-With-Baltics-And-XXX
 
 #EXTINF:-1 group-title="Федеральные и Новости",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
@@ -541,7 +541,51 @@ https://autopilot.catcast.tv/content/40381/index.m3u8
 http://45.190.28.50/SEX_PRIVE/playlist.m3u8
 #EXTINF:-1 group-title="♥18+",Brazzers TV
 http://185.23.80.23:8080/BrazzersTV/index.m3u8
+#EXTINF:-1 group-title="♥18+",Barely Legal
+http://185.23.80.23:8080/BarelyLegal/index.m3u8
+#EXTINF:-1 group-title="♥18+",Blue Hustler
+http://185.23.80.23:8080/BlueHustler/index.m3u8
 #EXTINF:-1 group-title="♥18+",RusskayaNoch
 http://185.23.80.23:8080/RusskayaNoch/index.m3u8
+#EXTINF:-1 group-title="♥18+",Passion_XXX
+http://89.33.29.115:8080/Passion_XXX/index.m3u8
+#EXTINF:-1 group-title="♥18+",Babes TV
+http://stream.mcquack.net/55/index.m3u8
+#EXTINF:-1 group-title="♥18+",Exxxotica
+http://stream.mcquack.net/57/index.m3u8
+#EXTINF:-1 group-title="♥18+",Frenchlover
+http://stream.mcquack.net/54/index.m3u8
+#EXTINF:-1 group-title="♥18+",Erox
+http://stream.mcquack.net/58/index.m3u8
+#EXTINF:-1 group-title="♥18+",Vivid Red
+http://stream.mcquack.net/284/index.m3u8
+#EXTINF:-1 group-title="♥18+",Barely Legal TV
+http://stream.mcquack.net/289/index.m3u8
+#EXTINF:-1 group-title="♥18+",Playboy TV
+http://stream.mcquack.net/290/index.m3u8
+#EXTINF:-1 group-title="♥18+",Brazzers TV Europe
+http://193.239.186.231/BRAZZERS/index.m3u8
+#EXTINF:-1 group-title="♥18+",Red Lips 18+
+http://tinyurl.com/TvZaTak37/Red_Lips/manifest.m3u8
 #EXTINF:-1 group-title="♥18+",Русская ночь 18+
 http://tinyurl.com/TvZaTak37/Russkaya_Noch/manifest.m3u8
+#EXTINF:-1 group-title="♥18+",Penthouse 1
+http://185.98.209.11:81/penthouse1/index.m3u8?token=test
+#EXTINF:-1 group-title="♥18+",Penthouse Reality TV
+http://185.98.209.11:81/penthouse2/index.m3u8?token=test
+#EXTINF:-1 group-title="♥18+",Reality Kings TV
+http://212.102.38.45/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Dorcel TV
+http://212.102.38.45/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="♥18+",Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="♥18+",Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="♥18+",Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="♥18+",MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="♥18+",Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
