@@ -1,10 +1,15 @@
 import requests
 
-# Šeit tu vari sarakstīt vairākas dažādas M3U saišu adreses no dažādiem avotiem
+# Šeit ir saraksts ar avotiem (publiskām saitēm), no kuriem skripts ievāks krievu kanālus
 PLAYLIST_SOURCES = [
-    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/lv.m3u", # Piemērs: varēsi nomainīt uz savām saitēm
-    "ŠEIT_IEVIETO_CITU_SAITI_1.m3u",
-    "ŠEIT_IEVIETO_CITU_SAITI_2.m3u"
+    # 1. Lielākais un populārākais atvērtā koda IPTV repozitorijs (Krievijas kanāli)
+    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+    
+    # 2. Alternatīvs "Free-TV" repozitorijs (arī Krievijas sadaļa)
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_russia.m3u",
+    
+    # 3. iptv-org repozitorijs, kur kanāli atlasīti tieši pēc krievu valodas (var trāpīties arī citas valstis, kas raida krieviski)
+    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/rus.m3u"
 ]
 
 OUTPUT_FILENAME = "mans_kanalu_saraksts.m3u"
@@ -32,9 +37,7 @@ def aggregate_and_clean():
     
     # 1. solis: Nolasām kanālus no visiem norādītajiem avotiem
     for source_url in PLAYLIST_SOURCES:
-        if "ŠEIT_IEVIETO" in source_url:
-            continue
-        print(g := f"Ielādē avotu: {source_url}")
+        print(f"Ielādē avotu: {source_url}")
         try:
             res = requests.get(source_url, timeout=10)
             if res.status_code == 200:
@@ -51,9 +54,9 @@ def aggregate_and_clean():
                                 continue
                     i += 1
         except Exception as e:
-            print(f"Kļūda ielādējot avotu: {e}")
+            print(f"❌ Kļūda ielādējot avotu {source_url}: {e}")
 
-    print(f"Kopā atrasti {len(all_channels)} kanāli no visiem avotiem. Sākam pārbaudi...")
+    print(f"Kopā atrasti {len(all_channels)} kanāli no visiem avotiem. Sākam pārbaudi (tas var aizņemt kādu laiku)...")
 
     # 2. solis: Pārbaudām un atlasām tikai strādājošos kanālus
     valid_channels = []
@@ -68,10 +71,16 @@ def aggregate_and_clean():
     # 3. solis: Saglabājam rezultātu galvenajā M3U failā
     with open(OUTPUT_FILENAME, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
+        # Lai izvairītos no pilnīgi vienādiem kanāliem (dublikātiem no dažādiem avotiem), izmantojam set() unikālajām saitēm
+        seen_urls = set()
+        saved_count = 0
         for inf, url in valid_channels:
-            f.write(f"{inf}\n{url}\n")
+            if url not in seen_urls:
+                f.write(f"{inf}\n{url}\n")
+                seen_urls.add(url)
+                saved_count += 1
             
-    print(f"Gatavs! Saglabāti {len(valid_channels)} strādājoši kanāli failā {OUTPUT_FILENAME}")
+    print(f"🎉 Gatavs! Saglabāti {saved_count} unikāli un strādājoši kanāli failā {OUTPUT_FILENAME}")
 
 if __name__ == "__main__":
     aggregate_and_clean()
