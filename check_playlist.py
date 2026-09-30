@@ -3,9 +3,9 @@ import requests
 # Fails, kurā glabājas tavi esošie kanāli
 LOCAL_FILENAME = "mans_kanalu_saraksts.m3u"
 
-# Šeit vari ierakstīt papildu ārējās M3U saites (no forumiem vai citiem avotiem)
+# Šeit ir pievienota saite no atrastās vietnes un vari pievienot citas saites
 PLAYLIST_SOURCES = [
-    # "https://piemērs.lv/cits_saraksts.m3u",
+    "https://smart-iptv.ru/russia.m3u",
 ]
 
 def check_url(url):
@@ -52,7 +52,6 @@ def aggregate_and_clean_all():
     try:
         with open(LOCAL_FILENAME, "r", encoding="utf-8") as f:
             local_text = f.read()
-            # Mēģinām atrast EPG galveni, ja tāda tur jau ir
             for line in local_text.splitlines():
                 if line.startswith("#EXTM3U"):
                     epg_header = line.strip()
@@ -63,7 +62,7 @@ def aggregate_and_clean_all():
     except FileNotFoundError:
         print(f"⚠️ Lokālais fails {LOCAL_FILENAME} nav atrasts, veidosim jaunu.")
 
-    # 2. solis: Nolasām kanālus no PAPILDUS ārējiem avotiem (saitēm)
+    # 2. solis: Nolasām kanālus no ārējiem avotiem (saitēm)
     for source_url in PLAYLIST_SOURCES:
         if not source_url.strip():
             continue
@@ -89,7 +88,6 @@ def aggregate_and_clean_all():
 
     for inf, url in all_channels:
         if url in seen_urls:
-            # Dublikāts - izlaidīsim
             continue
             
         print(f"Pārbauda: {url}")
