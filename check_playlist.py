@@ -1,7 +1,9 @@
 import requests
 
+# Fails, kurā glabājas tavi esošie kanāli
 LOCAL_FILENAME = "mans_kanalu_saraksts.m3u"
 
+# Visas tavas norādītās avotu adreses
 PLAYLIST_SOURCES = [
     "http://www.skynet.net.ua/iptv.m3u8",
     "https://iptv.org.ua/iptv/avtomini.m3u",
@@ -11,6 +13,7 @@ PLAYLIST_SOURCES = [
 ]
 
 def check_url(url):
+    """Pārbauda, vai straumes saite strādā"""
     try:
         response = requests.head(url, timeout=4, allow_redirects=True)
         if response.status_code < 400:
@@ -28,6 +31,7 @@ def check_url(url):
     return False
 
 def parse_m3u_content(text_content):
+    """Palīdfunkcija, kas izlasa M3U tekstu un atgriež kanālu sarakstu (info, url)"""
     channels = []
     lines = text_content.splitlines()
     i = 0
@@ -47,6 +51,7 @@ def aggregate_and_clean_all():
     all_channels = []
     epg_header = '#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"'
 
+    # 1. solis: Nolasām kanālus no TAVAS lokālās pleilistes (ja tāda eksistē)
     print(f"Nolasu vietējo failu: {LOCAL_FILENAME}...")
     try:
         with open(LOCAL_FILENAME, "r", encoding="utf-8") as f:
@@ -61,6 +66,7 @@ def aggregate_and_clean_all():
     except FileNotFoundError:
         print(f"⚠️ Lokālais fails {LOCAL_FILENAME} nav atrasts, veidosim jaunu.")
 
+    # 2. solis: Nolasām kanālus no ārējiem avotiem (saitēm)
     for source_url in PLAYLIST_SOURCES:
         if not source_url.strip():
             continue
@@ -78,20 +84,28 @@ def aggregate_and_clean_all():
 
     print(f"\nKopā savākti {len(all_channels)} kanāli. Sākam filtrēšanu un saišu pārbaudi...")
 
+    # 3. solis: Filtrējam DASH, maksas/abonēšanas kanālus, pārbaudām saites un dublikātus
     valid_channels = []
     seen_urls = set()
     saved_count = 0
     dead_count = 0
     filtered_count = 0
 
-    # Aともrache/paid/mpd saiti block karnyasathi keywords
-    blocked_keywords = [".mpd", "redtraffic", "paperstreetcash", "cheerleaderfacials"]
+    # Atslēgvārdi un nosaukumi, kurus automātiski izmest (tai skaitā 103. kanāls / FON Music un citi maksas)
+    blocked_keywords = [
+        ".mpd", 
+        "redtraffic", 
+        "paperstreetcash", 
+        "cheerleaderfacials", 
+        "fon music"
+    ]
 
     for inf, url in all_channels:
         url_lower = url.lower()
+        inf_lower = inf.lower()
         
-        # Jar link madhe paid/mpd asel tar te galitun nighun jail
-        if any(keyword in url_lower for keyword in blocked_keywords):
+        # Pārbaudām, vai saite vai nosaukums satur nevēlamus/maksas elementus
+        if any(keyword in url_lower or keyword in inf_lower for keyword in blocked_keywords):
             filtered_count += 1
             continue
 
@@ -108,6 +122,7 @@ def aggregate_and_clean_all():
             print("❌ Nedarbojas — izmetam")
             dead_count += 1
 
+    # 4. solis: Saglabājam rezultātu failā
     with open(LOCAL_FILENAME, "w", encoding="utf-8") as f:
         f.write(f"{epg_header}\n")
         for inf, url in valid_channels:
@@ -115,7 +130,7 @@ def aggregate_and_clean_all():
             
     print(f"\n🎉 Process pabeigts!")
     print(f"✅ Saglabāti strādājoši un unikāli kanāli: {saved_count}")
-    print(f"🚫 Atmestas nevēlamās (.mpd / paid) saites: {filtered_count}")
+    print(f"🚫 Atmestas nevēlamās (.mpd / maksas) saites: {filtered_count}")
     print(f"❌ Izmesti mirušie un dublikāti: {dead_count}")
 
 if __name__ == "__main__":
