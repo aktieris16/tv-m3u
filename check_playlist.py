@@ -7,7 +7,9 @@ LOCAL_FILENAME = "mans_kanalu_saraksts.m3u"
 PLAYLIST_SOURCES = [
     "http://www.skynet.net.ua/iptv.m3u8",
     "https://iptv.org.ua/iptv/avtomini.m3u",
-    "https://iptv-org.github.io/iptv/countries/ru.m3u"
+    "https://iptv-org.github.io/iptv/countries/ru.m3u",
+    "https://ngrch.github.io/iptv/ru.m3u",
+    "https://ngrch.github.io/iptv/cartoons.m3u"
 ]
 
 def check_url(url):
@@ -80,15 +82,21 @@ def aggregate_and_clean_all():
         except Exception as e:
             print(f"❌ Kļūda ielādējot avotu: {e}")
 
-    print(f"\nKopā savākti {len(all_channels)} kanāli (tavi + jaunie). Sākam saišu pārbaudi un tīrīšanu...")
+    print(f"\nKopā savākti {len(all_channels)} kanāli. Sākam filtrēšanu un saišu pārbaudi...")
 
-    # 3. solis: Pārbaudām saites un novēršam dublikātus
+    # 3. solis: Filtrējam DASH (.mpd), pārbaudām saites un novēršam dublikātus
     valid_channels = []
     seen_urls = set()
     saved_count = 0
     dead_count = 0
+    dash_count = 0
 
     for inf, url in all_channels:
+        # Automātiski noraidām .mpd (DASH) saites, lai pasargātu televizoru no kļūdām
+        if ".mpd" in url.lower():
+            dash_count += 1
+            continue
+
         if url in seen_urls:
             continue
             
@@ -110,6 +118,7 @@ def aggregate_and_clean_all():
             
     print(f"\n🎉 Process pabeigts!")
     print(f"✅ Saglabāti strādājoši un unikāli kanāli: {saved_count}")
+    print(f"🚫 Atmestas .mpd (DASH) saites: {dash_count}")
     print(f"❌ Izmesti mirušie un dublikāti: {dead_count}")
 
 if __name__ == "__main__":
