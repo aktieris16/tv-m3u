@@ -29,18 +29,12 @@ http://stream.mcquack.net/235/index.m3u8
 http://stream.mcquack.net/461/index.m3u8
 #EXTINF:-1 group-title="⚽ Спорт",Sportivnyy (1080p)
 https://live-3.otcnet.ru/sportivny/index.m3u8
-#EXTINF:-1 group-title="⚽ Спорт",Trace Sport Stars
-https://stream8.cinerama.uz/1274/index.m3u8
-#EXTINF:-1 group-title="⚽ Спорт",Trace Sport Stars Russia (720p)
-https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="⚽ Спорт",UDAR (1080p)
 http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1 group-title="⚽ Спорт",Viju+ Sport (2)
 http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 group-title="⚽ Спорт",viju+ Sport (576p)
 http://stream.mcquack.net/333/index.m3u8
-#EXTINF:-1 group-title="⚽ Спорт",КХЛ KHL
-https://stream8.cinerama.uz/1422/index.m3u8
 #EXTINF:-1 group-title="⚽ Спорт",КХЛ KHL Prime (2)
 http://stream.mcquack.net/178/index.m3u8
 #EXTINF:-1 group-title="⚽ Спорт",Матч! (3)
@@ -123,8 +117,6 @@ https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
 http://stream.mcquack.net/108/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Dorama (576p)
 https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Dunyo bo'ylab
-https://stream8.cinerama.uz/1006/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Evrokino (576p)
 https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Evrokino HD (1080p)
@@ -135,8 +127,6 @@ http://stream.mcquack.net/182/index.m3u8
 http://stream.mcquack.net/129/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Fresh Fantastic
 http://stream.mcquack.net/429/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Hollywood
-https://stream8.cinerama.uz/1443/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Horoshee Kino (720p)
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Illusion+ (576p)
@@ -147,6 +137,8 @@ http://188.113.190.12/329/index.m3u8
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Kino 24 (720p)
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Kino Jam
+https://kinowalk.hopto.org/kinojam_live
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Kino TV HD (1080p)
 http://176.118.197.101/KinoTvHD/playlist.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",KinoHit (576p)
@@ -155,12 +147,8 @@ http://stream.mcquack.net/126/index.m3u8
 http://stream.mcquack.net/445/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",KinoMix
 https://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Kinofon
-https://kinowalk.hopto.org/kinofon_live
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Kinokomedija (576p)
 http://stream.mcquack.net/265/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Kinolampa
-https://kinowalk.hopto.org/kinolampa_live
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Kinomix (576p)
 http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Kinopokaz (576p)
@@ -175,10 +163,10 @@ http://stream.mcquack.net/170/index.m3u8
 http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Kinowalk
 https://kinowalk.hopto.org/kinowalk_live
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Legion
+https://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Mir Seriala (576p)
 http://176.118.197.101/MirSeriala/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы",MovieToper
-https://kinowalk.hopto.org/movietoper_live
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Muzhskoe kino (576p)
 http://stream.mcquack.net/107/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Nashe muzhskoe HD (1080p)
@@ -191,6 +179,8 @@ http://stream.mcquack.net/214/index.m3u8
 https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Premialnoe HD (1080p)
 http://stream.mcquack.net/421/index.m3u8
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Priest_kod
+https://kinowalk.hopto.org/priest_kod_live
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Retrovision
 https://lbgo.bozztv.com/07/ushba-rvision/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Retrovision Classic
@@ -213,6 +203,8 @@ https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv
 http://176.118.197.101/START_AIR/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",START World (576p)
 https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Scripach
+https://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Shokiruyushchee HD (1080p)
 http://stream.mcquack.net/75/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Smotrim 100% Klassika (720p)
@@ -233,12 +225,8 @@ http://185.221.213.254:8080/Mafia2/index.m3u8
 https://kb.catcast.tv/content/49702/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",TimeToHorror
 https://kinowalk.hopto.org/timetohorror_live
-#EXTINF:-1 group-title="🎬 Кино и сериалы",TimeToMovie
-https://kinowalk.hopto.org/timetomovie_live
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Tоny
-https://kinowalk.hopto.org/ordinary_people_live
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Video Channel
-https://kinowalk.hopto.org/video_channel_live
+#EXTINF:-1 group-title="🎬 Кино и сериалы",TopMoment
+https://kinowalk.hopto.org/topmomentlive_live
 #EXTINF:-1 group-title="🎬 Кино и сериалы",VideoArsenal
 https://kinowalk.hopto.org/videoarsenal_live
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Viju TV1000 (3)
@@ -255,10 +243,6 @@ http://stream.mcquack.net/200/index.m3u8
 http://stream.mcquack.net/202/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Viju+ Serial
 http://stream.mcquack.net/311/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Wfliq
-https://kinowalk.hopto.org/wfliq_live
-#EXTINF:-1 group-title="🎬 Кино и сериалы",dj Zour
-https://kinowalk.hopto.org/zsmedia_live
 #EXTINF:-1 group-title="🎬 Кино и сериалы",swat2k
 https://kinowalk.hopto.org/swat2k_live
 #EXTINF:-1 group-title="🎬 Кино и сериалы",viju TV1000 (576p)
@@ -281,10 +265,10 @@ https://mults.info/mp4/38_a_vdrug_poluchitsya.mp4
 https://cityeden.catcast.tv/content/47515/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Ай-ай-ай
 https://mults.info/mp4/ay_ay_ay.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Айболит и Бармалей
-https://mults.info/mp4/aibolit_i_barmaley.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Айболит и его звери
 https://mults.info/mp4/aibolit_i_ego_zveri.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Айболит спешит на помощь
+https://mults.info/mp4/aibolit_speshit_na_pomosh.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Аленький цветочек
 https://mults.info/mp4/alenkij_tsvetochek.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Алим и его ослик
@@ -303,8 +287,6 @@ https://mults.info/mp4/bobik_v_gostjah_u_barbosa.mp4
 https://mults.info/mp4/bolshoi_uh.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Большой петух
 https://mults.info/mp4/bolshoy_petuh.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Большой секрет для маленькой компании
-https://mults.info/mp4/bolshoj_secret_dlia_malenkoj_kompanii.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Буревестник
 https://mults.info/mp4/burevestnik.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",В гостях у лета
@@ -317,6 +299,8 @@ https://mults.info/mp4/v_strane_nevyuchennyx_urokov.mp4
 https://mults.info/mp4/aibolit_varvara_zlaya_sestra_aibolita.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Варежка
 https://mults.info/mp4/varegka.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Василиса Микулишна
+https://mults.info/mp4/vasilisa_mikulishna.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Великое закрытие
 https://mults.info/mp4/38_velikoe_zakrytie.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Верните Рекса
@@ -325,8 +309,8 @@ https://mults.info/mp4/vernite_reksa.mp4
 https://mults.info/mp4/karusel_1.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Веселый огород
 https://mults.info/mp4/veselyi_ogorod.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Весёлая карусель (2)
-https://mults.info/mp4/karusel_2.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Весёлая карусель (3)
+https://mults.info/mp4/karusel_3.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Винни-Пух
 https://mults.info/mp4/winni_pooh.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Винни-Пух и день забот
@@ -339,8 +323,8 @@ https://mults.info/mp4/vitamin_rosta.mp4
 https://mults.info/mp4/vlyubchivala_vorona.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Вовка в тридевятом царстве
 https://mults.info/mp4/vovka_v_tridev_tsarstve.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Возвращение блудного попугая (3)
-https://mults.info/mp4/vozvr_bl_popugaya_3.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Возвращение блудного попугая (1)
+https://mults.info/mp4/vozvr_bl_popugaya_1.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Волк и семеро козлят
 https://mults.info/mp4/volk_i_semero_kozljat.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Волк и семеро козлят на новый лад
@@ -361,6 +345,8 @@ https://mults.info/mp4/vtoroe_ya.mp4
 https://mults.info/mp4/girlyanda_iz_malyshei.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Грибок-теремок
 https://mults.info/mp4/gribok_teremok.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Гуси-лебеди
+https://mults.info/mp4/gusi_lebedi.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Два богатыря
 https://mults.info/mp4/dva_bogatyrja.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Два веселых гуся
@@ -369,6 +355,8 @@ https://mults.info/mp4/dva_veselyh_gusja.mp4
 https://mults.info/mp4/dve_skazki.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Двенадцать месяцев
 https://mults.info/mp4/12_mesyacev.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Дед Мороз и лето
+https://mults.info/mp4/ded_moroz_i_leto.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Дед Мороз и серый волк
 https://mults.info/mp4/ded_moroz_i_sery_volk.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Детское кино
@@ -379,8 +367,6 @@ https://mults.info/mp4/do_re_mi.mp4
 https://mults.info/mp4/doverchivy_drakon.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Дождливая история
 https://mults.info/mp4/dozhdlivaja_istorija.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Дом Кино (2)
-https://stream8.cinerama.uz/1054/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Дом Кино International
 http://stream.mcquack.net/236/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Дом Кино Премиум
@@ -415,6 +401,8 @@ https://mults.info/mp4/zhirafa_i_ochki.mp4
 https://mults.info/mp4/zhiharka_1977.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Завтра будет завтра
 https://mults.info/mp4/38_zavtra_budet_zavtra.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Заколдованный мальчик
+https://mults.info/mp4/zakoldovanny_malchik.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Замок лгунов
 https://mults.info/mp4/zamok_lgunov.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Зарядка для хвоста
@@ -451,24 +439,26 @@ https://mults.info/mp4/kak_griby_s_goroxom_voevali.mp4
 https://mults.info/mp4/38_kak_lechit_udava.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Как львенок и черепаха пели песню
 https://mults.info/mp4/kak_lvenok_i_cherepaha_peli_pesnyu.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Как обезьянки обедали
+https://mults.info/mp4/kak_obezyanki_obedali.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Как пан конем был
 https://mults.info/mp4/kak_pan_konem_byl.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Как прекрасно светит сегодня Луна
 https://mults.info/mp4/kak_prekrasno_svetit_segodnja_luna.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Каникулы Бонифация
-https://mults.info/mp4/kanikuli_bonifatsia.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Каникулы в Простоквашино
 https://mults.info/mp4/kanikuly_v_prostokvashino.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Капитошка
 https://mults.info/mp4/kapitoshka.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Карлсон вернулся
 https://mults.info/mp4/karlson_vernulsya.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Карпуша
-https://mults.info/mp4/karpusha.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Катерок
+https://mults.info/mp4/katerok.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Кважды ква
 https://mults.info/mp4/kvazhdy_kva.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Квартет для двух солистов
 https://mults.info/mp4/kvartet_dlya_dvuh_solistov.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Квартира из сыра
+https://mults.info/mp4/kvartira_iz_syra.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Келе
 https://mults.info/mp4/kele.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Кино 1
@@ -563,6 +553,8 @@ https://mults.info/mp4/kogda_zazhigajutsja_elki.mp4
 https://mults.info/mp4/kogda_to_davno.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Колобок
 https://mults.info/mp4/kolobok.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Комедии
+https://kinowalk.hopto.org/cmexye4ku_live
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Комедийное
 http://stream.mcquack.net/74/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Комедия (2)
@@ -585,32 +577,32 @@ https://mults.info/mp4/kot_i_lisa.mp4
 https://mults.info/mp4/kot_i_kloun.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Кот-рыболов
 https://mults.info/mp4/kot_rybolov.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Котенок с улицы Лизюкова
+https://mults.info/mp4/kotenok_s_ulitsy_lizjukova.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Кошкин дом
 https://mults.info/mp4/koshkin_dom_ris.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Крокодил Гена
 https://mults.info/mp4/krokodil_gena.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Крокодил и солнце
-https://mults.info/mp4/aibolit_krokodil_i_solnce.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Крот и роды
+https://mults.info/mp4/krot_i_rody.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Крошка Енот
 https://mults.info/mp4/kroshka_enot.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Кто ж такие птички
 https://mults.info/mp4/kto_zh_takie_ptichki.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Кто пасется на лугу
 https://mults.info/mp4/chernih.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Кто получит приз
+https://mults.info/mp4/kto_poluchit_priz.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Куда идет слоненок
 https://mults.info/mp4/38_kuda_idet_slonenok.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Лабиринт
 https://mults.info/mp4/labirint_podvig_teseja.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Летели два верблюда
 https://mults.info/mp4/leteli_dva_verbluda.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Летучий корабль
-https://mults.info/mp4/letuchiy_korabl.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Лис и Дрозд
 https://mults.info/mp4/lis_i_drozd.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Лиса-сирота
 https://mults.info/mp4/lisa_sirota.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Ловушка для Бамбра
-https://mults.info/mp4/lovushka_dlya_bambra.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Лягушка-путешественница
@@ -619,6 +611,8 @@ https://mults.info/mp4/ljagushka_puteshestvennitsa.mp4
 https://mults.info/mp4/malenkaya_koldunya.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Малыш и Карлсон
 https://mults.info/mp4/malysh_i_karlson.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Мальчик и лягушонок
+https://mults.info/mp4/malchik_i_lyagushonok.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Мальчик с пальчик
 https://mults.info/mp4/malchik_s_palchik.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Мама для мамонтенка
@@ -639,8 +633,6 @@ https://mults.info/mp4/maugli.mp4
 https://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Медведь и мотоцикл с коляской
 https://mults.info/mp4/lisa_medved_i_mototsikl_s_kolyaskoy.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Медвежуть
-https://mults.info/mp4/medvezhut.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Метеор" на ринге
 https://mults.info/mp4/meteor_na_ringe.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Мешок яблок
@@ -669,18 +661,16 @@ http://stream.mcquack.net/107/index.m3u8
 https://mults.info/mp4/muk_skorohod.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Мультфильмы
 https://lbgo.bozztv.com/07/ushba80/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Мы идем искать
-https://mults.info/mp4/my_idem_iskat.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Муха-Цокотуха
+https://mults.info/mp4/muha_cokotuha_1960.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",НТВ Сериал (2)
 http://stream.mcquack.net/301/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы",На черный день
-https://mults.info/mp4/na_cherny_den.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Назад в СССР
+https://kinowalk.hopto.org/backtotheussr_live
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Наше
 http://stream.mcquack.net/217/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Наше Мужское
 http://stream.mcquack.net/362/index.m3u8
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Наше новое кино
-https://stream8.cinerama.uz/1051/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Не скажу!
 https://mults.info/mp4/ne_skazhu.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Незнайка на Луне (1)
@@ -689,8 +679,6 @@ https://mults.info/mp4/neznayka_na_lune_1.mp4
 https://mults.info/mp4/38_nenaglyadnoe_posobie.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Необыкновенный матч
 https://mults.info/mp4/neobyknovennyi_match.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Непослушный медвежонок
-https://mults.info/mp4/neposlushny_medvezhonok.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Неслыханная
 https://mults.info/mp4/nevidannaya_neslyhannaya.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Нехочуха
@@ -715,8 +703,8 @@ https://mults.info/mp4/ograblenie_po.mp4
 https://mults.info/mp4/pif_paf_oi_oi_oi.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Опять двойка
 https://mults.info/mp4/opjat_dvoyka.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Остров сокровищ (2)
-https://mults.info/mp4/ostrov_sokrovish_part2.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Остров сокровищ (1)
+https://mults.info/mp4/ostrov_sokrovish_part1.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Остросюжетное
 http://stream.mcquack.net/214/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Осьминожки
@@ -725,8 +713,8 @@ https://mults.info/mp4/osminozhki.mp4
 https://mults.info/mp4/ot_dozhdya_do_dozhdya.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Падал прошлогодний снег
 https://mults.info/mp4/padal_proshlogodnij_sneg.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Первый ряд
-https://kinowalk.hopto.org/perviryad_live
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Паровозик из Ромашкова
+https://mults.info/mp4/parovozik_iz_romashkova.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Перевал
 https://mults.info/mp4/pereval.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Пес в сапогах
@@ -741,16 +729,14 @@ https://mults.info/mp4/petuh_i_kraski.mp4
 https://mults.info/mp4/petushok_zolotoyi_grebeshok.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Петя и Красная Шапочка
 https://mults.info/mp4/petja_i_krasnaja_shapochka.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Пластилиновая ворона
-https://mults.info/mp4/plaistilinovaja_vorona.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",По дороге с облаками
 https://mults.info/mp4/tigrenok1.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",По лунной дороге
 https://mults.info/mp4/po_lunnoy_doroge.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",По следам Бамбра
 https://mults.info/mp4/po_sledam_bambra.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Погоди! (3)
-https://mults.info/mp4/nu_pogodi_03.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Погоди! (8)
+https://mults.info/mp4/nu_pogodi_08.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Погоди! (телевыпуск 1)
 https://mults.info/mp4/nu_pogodi_tv_1.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Погоди! (телевыпуск 2)
@@ -767,8 +753,6 @@ https://mults.info/mp4/poka_ya_ne_vernus.mp4
 https://mults.info/mp4/pony_begaet_po_krugu.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Последняя невеста Змея Горыныча
 https://mults.info/mp4/poslednaja_nevesta_zmeja_gorynycha.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Потерялась птица в небе
-https://mults.info/mp4/poteryalas_ptitsa_v_nebe.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Праздник новогодней ёлки
 https://mults.info/mp4/prazdnik_novogodnej_elki.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Премиальное
@@ -785,12 +769,16 @@ https://mults.info/mp4/priklucheniya_kuznechika_kuzi_2.mp4
 https://mults.info/mp4/priklyucheniya_medvezhonka_sadko.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Притча о мыши
 https://mults.info/mp4/pritcha_o_myshi.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Притча об артисте
+https://mults.info/mp4/pritcha_ob_artiste.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Приходи на каток
 https://mults.info/mp4/prihodi_na_katok.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Пришелец Ванюша (2)
-https://mults.info/mp4/prishelets_vanyusha_2.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Пришелец Ванюша (1)
+https://mults.info/mp4/prishelets_vanyusha_1.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Про Сидорова Вову
 https://mults.info/mp4/pro_sidorova_vovu.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Проделки ведьмы
+https://mults.info/mp4/priklyucheniya_volshebnogo_globusa_ili_prodelki_vedmy.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Просто так!
 https://mults.info/mp4/prosto_tak.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Птичка Тари
@@ -833,10 +821,12 @@ https://mults.info/mp4/seraya_sheika.mp4
 https://mults.info/mp4/serdce_zverja.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Серый волк и Красная Шапочка
 https://mults.info/mp4/seryj_volk_and_krasnaja_shapochka.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Сестрица Аленушка и братец Иванушка
-https://mults.info/mp4/sestrica_alenushka_i_bratec_ivanushka.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Сказка
+https://mults.info/mp4/skazka.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Сказка о рыбаке и рыбке
 https://mults.info/mp4/skazka_o_rybake_i_rybke.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Сказка о солдате
+https://mults.info/mp4/skazka_o_soldate.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Сказка о старом эхо
 https://mults.info/mp4/lisenok_skazka_o_starom_eho.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Сказка о царе Салтане
@@ -857,16 +847,12 @@ https://mults.info/mp4/smeh_i_gore_u_bela_morya.mp4
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Снеговик-почтовик
 https://mults.info/mp4/snegovik_pochtovik.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Снежные дорожки
-https://mults.info/mp4/shezhnye_dorozhki.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Солдат и чёрт
 https://mults.info/mp4/soldat_i_chert.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Соловей
 https://mults.info/mp4/solovey.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Сон
-https://mults.info/mp4/son_1988.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Союзмультфильмы
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Старые знакомые
@@ -897,8 +883,8 @@ https://mults.info/mp4/teremok.mp4
 https://mults.info/mp4/timka_i_dimka.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Три дровосека
 https://mults.info/mp4/tri_drovoseka.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Три лягушонка (2)
-https://mults.info/mp4/tri_lyagushonka_2.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Три лягушонка (3)
+https://mults.info/mp4/tri_lyagushonka_3.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Трое из Простоквашино
 https://mults.info/mp4/troe_iz_prostokvashino.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Трям! Здравствуйте!
@@ -921,8 +907,6 @@ https://mults.info/mp4/fedorino_gore.mp4
 https://mults.info/mp4/fedya_zaycev.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Фильм! Фильм! Фильм!
 https://mults.info/mp4/filmfilmfilm.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Футбольные звезды
-https://mults.info/mp4/futbolnye_zvezdy.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Халиф-аист
 https://mults.info/mp4/halif_aist.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Хаш
@@ -939,26 +923,22 @@ https://mults.info/mp4/tsarevna_lyagushka.mp4
 https://mults.info/mp4/tsar_i_tkach.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Цветик-семицветик
 https://mults.info/mp4/cvetik_semicvetik.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Цель
-https://mults.info/mp4/cel.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Чебурашка
 https://mults.info/mp4/cheburashka.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Чебурашка идет в школу
 https://mults.info/mp4/cheburashka_idet_v_shkolu.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Чемодан
 https://mults.info/mp4/chemodan.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Чертенок с пушистым хвостом
-https://mults.info/mp4/chertenok_s_pushistym_hvostom.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Чертенок №13
 https://mults.info/mp4/chertenok_n13.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Чиполлино
+https://mults.info/mp4/chipollino.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Что в кузнице не было гвоздя
 https://mults.info/mp4/ottogo_chto_v_kuznice_ne_bylo_gvozdja.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Что такое хорошо и что такое плохо
 https://mults.info/mp4/chto_takoe_horosho.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Что там под маской
 https://mults.info/mp4/chto_tam_pod_maskoy.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Чуня
-https://mults.info/mp4/chunya.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Чучело-мяучело
 https://mults.info/mp4/chuchelo_mjauchelo.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Шайбу! Шайбу
@@ -967,6 +947,10 @@ https://mults.info/mp4/shaibu.mp4
 https://mults.info/mp4/shakalenok_i_verblud.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Шапокляк
 https://mults.info/mp4/shapoklyak.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Шейдулла-лентяй
+https://mults.info/mp4/sheydulla_lentjay.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Шерлок Холмс и доктор Ватсон
+https://mults.info/mp4/sherlok_holms_i_doktor_vatson.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Шиворот-навыворот
 https://mults.info/mp4/chertenok_n13.shivorot_navyvorot.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Шиш
@@ -979,22 +963,20 @@ https://lbgo.bozztv.com/07/ushba62/index.m3u8
 https://mults.info/mp4/shutki.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Щелкунчик
 https://mults.info/mp4/schelkunchik.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",Эксперимент
-https://mults.info/mp4/eksperiment.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",Эквилибриум
+https://kinowalk.hopto.org/equilibrium_live
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Это что за птица
 https://mults.info/mp4/eto_chto_za_ptitsa.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",Яблочный пирог
 https://mults.info/mp4/yablochny_pirog.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",будь человеком!
 https://mults.info/mp4/barankin_bud_chelovekom.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",вперед!
-https://mults.info/mp4/obezyanki_vpered.mp4
+#EXTINF:-1 group-title="🎬 Кино и сериалы",в белой пене...
+https://mults.info/mp4/armenfilm_v_sinem_more_v_beloj_pene.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",говорящая рыба!
 https://mults.info/mp4/armenfilm_uh_ty_govorjaschaja_ryba.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",два - дружно!
 https://mults.info/mp4/raz_dva_druzhno.mp4
-#EXTINF:-1 group-title="🎬 Кино и сериалы",доктор!!
-https://mults.info/mp4/aibolit_spasibo_doktor.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",которая гуляла сама по себе
 https://mults.info/mp4/koshka_kotoraya_gulyala_sama_po_sebe.mp4
 #EXTINF:-1 group-title="🎬 Кино и сериалы",который боялся прививок
@@ -1025,8 +1007,6 @@ http://stream.mcquack.net/257/index.m3u8
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",7S Music (576p)
 https://cdn.pishow.tv/ott/live/1257/master.m3u8
-#EXTINF:-1 group-title="🎵 Музыка и развлечения",7X Music (576p)
-http://51.75.127.199:3141/7xmusic/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",88 Stereo (720p) [Not 24/7]
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",8XM HD
@@ -1111,6 +1091,8 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",CMT (720p)
 http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",CMT Equal Play (720p)
+https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Cadena Elite (720p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",California Music Channel (1080p)
@@ -1131,10 +1113,14 @@ https://cityeden.catcast.tv/content/46421/index.m3u8
 https://tv.city.bg/play/tshls/citytv/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Classic Music (1080p)
 http://stream.mcquack.net/312/index.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",Classica (720p)
+https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Clubbing TV UK (720p)
 https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Company TV (720p)
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",Concert Channel (720p)
+https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Conecta TV (720p)
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Corazon TV
@@ -1165,6 +1151,8 @@ https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Deluxe Dance (1080p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",Deluxe Lounge (720p)
+https://jmp2.uk/stvp-CHAJ0500413A
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Deluxe Music (720p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Deluxe Rap (1080p)
@@ -1183,16 +1171,18 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",EMI TV
 https://astra.emitv.ro/hls/emi/index.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",ETV Beats (1080p)
+https://jmp2.uk/stvp-IN4900002RV
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",EU Music (1080p)
 http://stream.mcquack.net/261/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",El Sol Network TV (1080p)
 https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",Epic Music Digital (1080p)
+https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Exa TV
 http://190.61.90.17:40000/play/a0hk/index.m3u8
-#EXTINF:-1 group-title="🎵 Музыка и развлечения",FON Music (576p)
-https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",FUSION TV (1080p)
 https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Fairuz (1080p)
@@ -1237,8 +1227,6 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8
 https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Isai Aruvi (396p)
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
-#EXTINF:-1 group-title="🎵 Музыка и развлечения",Isango TV (480p) [Not 24/7]
-http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Ishtar TV SD (1080p)
 https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Ivoire Channel (720p)
@@ -1281,16 +1269,12 @@ http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 https://stream-live.lrt.lt/klasika/master.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",La Fabulosa TV (720p)
 https://eu1.servers10.com:8081/8004/index.m3u8
-#EXTINF:-1 group-title="🎵 Музыка и развлечения",La Kalle (720p)
-https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",La Top 102.9 (720p)
 https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",La Top 107.7 (720p)
 https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",La-X (720p)
 https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
-#EXTINF:-1 group-title="🎵 Музыка и развлечения",Lausitzwelle (1080p)
-https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",LiraTV (720p)
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Lobo TV (720p)
@@ -1305,10 +1289,30 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da9
 https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",MBC Mood (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",MTV Biggest Pop (1080p)
+https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",MTV Biggest Pop BR (1080p)
+https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",MTV Biggest Pop CA (1080p)
+https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",MTV Biggest Pop LatAm (1080p)
+https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",MTV Classic BR (720p)
+https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",MTV Classic CA (720p)
 https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",MTV Classic LatAm (720p)
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",MTV Flow Latino (720p)
+https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",MTV Flow Latino LatAm (720p)
+https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",MTV Live (720p)
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",MTV Spankin' New (1080p)
+https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",MTV Spankin' New CA (1080p)
+https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",MTV Volgograd (720p) [Not 24/7]
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Magic TV (Bulgaria) (720p)
@@ -1351,6 +1355,8 @@ http://181.78.12.119:16123/play/ch55/index.m3u8
 https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Montones TV (1080p)
 https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",Mooz Dance
+https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Mooz Hits
 https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Mooz Ro!
@@ -1387,6 +1393,10 @@ http://stream.mcquack.net/303/index.m3u8
 http://stream.mcquack.net/153/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",NASHE Music (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",NH BollyRaga (1080p)
+https://jmp2.uk/stvp-IN460001373
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",NOW Rock (1080p)
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Navahang TV (720p)
 https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Next HD (480p)
@@ -1447,6 +1457,8 @@ http://45.167.2.101:8000/play/a0sd/index.m3u8
 https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Play TV (Greece) (480p) [Not 24/7]
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",Pluto TV Shows por Stingray (720p)
+https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Power Dance (1080p)
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Power Love (1080p)
@@ -1457,6 +1469,8 @@ https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",PowerTurk Taptaze (1080p)
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",Public Music (576p)
+https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Punjabi Hits (1080p)
 https://stream.ottlive.co.in/punjabihits/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Qello Concerts by Stingray (1080p)
@@ -1489,10 +1503,12 @@ https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",RU.TV (1080p)
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
-#EXTINF:-1 group-title="🎵 Музыка и развлечения",RU.TV РУ.ТВ
-https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",RU.TV РУ.ТВ (3)
+http://stream.mcquack.net/109/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Rabeh Saqer (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",Raj Musix Kannada (576p)
+https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Raj Musix Malayalam (576p)
 https://cdn.pishow.tv/ott/live/1073/master.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Raj Musix Tamil (1080p)
@@ -1519,6 +1535,8 @@ http://stream.mcquack.net/319/index.m3u8
 https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",SOY Plancha TV (720p)
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Sabor TV (720p)
 https://v1.tustreaming.cl/sabortv/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Salsa Gorda Television (1080p) [Not 24/7]
@@ -1529,6 +1547,8 @@ https://salto-streams.nl/hls/sotv1.m3u8
 https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Sangeet Bangla (720p)
 https://cdn.pishow.tv/ott/live/1143/master.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",Sangeet Bhojpuri (576p)
+https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Sangeet Marathi (720p)
 https://cdn.pishow.tv/ott/live/1229/master.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Scorch TV (1080p)
@@ -1631,8 +1651,6 @@ https://cloud.tvomix.com/TVOMIX/index.m3u8
 https://hdbox.chunklistv.com/live?stream=tvone
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",TVR Folclor
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
-#EXTINF:-1 group-title="🎵 Музыка и развлечения",TVS Music Network (720p)
-https://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",TVUNO (720p)
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Tarab (1080p)
@@ -1647,6 +1665,10 @@ https://vdo.pro-fhi.net:3228/stream/play.m3u8
 http://200.115.120.1:8000/play/ca048/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Tezaur TV (576i)
 https://tezaurtv.md/stream/index.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",That's 70s (720p)
+https://jmp2.uk/plu-69ef53e12f4d2b4f9c582e76.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",That's 80s (720p)
+https://jmp2.uk/plu-69ef54f3c700cf0140272def.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",The Voice (720p)
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Tiankov Folk (576p)
@@ -1677,14 +1699,10 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 http://83.103.149.75:8085/udp/239.30.0.9:4000
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",UA Music (1080p)
 http://stream.mcquack.net/281/index.m3u8
-#EXTINF:-1 group-title="🎵 Музыка и развлечения",Urbano TV (720p)
-https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",V2BEAT TV (720p) [Not 24/7]
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",VAM TV (720p)
 https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8
-#EXTINF:-1 group-title="🎵 Музыка и развлечения",VM Latino (720p) [Not 24/7]
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Vaanavil TV (720p)
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Vantage Classic (720p)
@@ -1697,30 +1715,28 @@ https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8
 https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Vantage Rock (720p) [Geo-blocked]
 https://hls.vantagetv.ee/vrock_stream/index.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",Venus Media (1080p)
+https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Vevo Hip Hop (1080p)
 https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",Vevo Latino (1080p)
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Vevo R&B (1080p)
 https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",Vevo True School Hip-Hop
+https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Video Mix TV
 https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
-#EXTINF:-1 group-title="🎵 Музыка и развлечения",Video Tour Channel
-https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Vijay Takkar APAC (1080p)
 https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
-#EXTINF:-1 group-title="🎵 Музыка и развлечения",Vintage Music (720p)
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Vision Television (720p)
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Volksmusik TV (1080p)
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
-#EXTINF:-1 group-title="🎵 Музыка и развлечения",Vos y TV (720p) [Not 24/7]
-https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",X Level Media (1080p)
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",XITE (720p)
 https://xite-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🎵 Музыка и развлечения",XITE 90's Throwback (1080p)
-https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",XITE Classic Country (720p)
 https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",XITE Hits (1080p)
@@ -1731,24 +1747,28 @@ https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",XITE Just Chill (1080p)
 https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",XITE Nuevo Latino (1080p)
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",XITE Reggae Vibes (1080p)
 https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",XITE Rock x Metal (1080p)
 https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
-#EXTINF:-1 group-title="🎵 Музыка и развлечения",XITE Siempre Latino (1080p)
-https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",XPTV1 (720p)
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",Yo! MTV (1080p)
+https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Yo! MTV CA (1080p)
 https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",ZICO TV (720p)
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Zing! (576p)
 http://107.167.16.138/zing/index.m3u8?token=test
-#EXTINF:-1 group-title="🎵 Музыка и развлечения",Zo'r TV (576p)
-https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",Zona M
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2470/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",¡Viva Latino! (1080p)
 http://stream.mcquack.net/285/index.m3u8
+#EXTINF:-1 group-title="🎵 Музыка и развлечения",Бременские музыканты
+https://mults.info/mp4/bremenskie_muzykanty.mp4
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",Музыкальный магазинчик
 https://mults.info/mp4/muzykaljny_magazinchik_1989.mp4
 #EXTINF:-1 group-title="🎵 Музыка и развлечения",По следам бременских музыкантов
@@ -1759,16 +1779,10 @@ http://185.37.150.46/Karusel/index.m3u8
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="👶 Детские каналы",Cartoon Network
 https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=SBAsUrxODR6nk6ktHKTpoQ&e=2090795468&scheme=https
-#EXTINF:-1 group-title="👶 Детские каналы",Detskiy (576p)
-https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="👶 Детские каналы",Ducktv
-https://stream8.cinerama.uz/1271/index.m3u8
 #EXTINF:-1 group-title="👶 Детские каналы",Fan
 http://stream.mcquack.net/420/index.m3u8
 #EXTINF:-1 group-title="👶 Детские каналы",Gulli Girl (2)
 http://stream.mcquack.net/305/index.m3u8
-#EXTINF:-1 group-title="👶 Детские каналы",Gulli Girl (720p)
-https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="👶 Детские каналы",Kapitan Fantastika (1080p)
 http://stream.mcquack.net/144/index.m3u8
 #EXTINF:-1 group-title="👶 Детские каналы",Mama (576p)
@@ -1777,8 +1791,6 @@ http://stream.mcquack.net/79/index.m3u8
 https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="👶 Детские каналы",Nick Jr.
 http://stream.mcquack.net/220/index.m3u8
-#EXTINF:-1 group-title="👶 Детские каналы",NickToons
-https://stream8.cinerama.uz/1502/index.m3u8
 #EXTINF:-1 group-title="👶 Детские каналы",Nickelodeon (2)
 http://stream.mcquack.net/443/index.m3u8
 #EXTINF:-1 group-title="👶 Детские каналы",Nickelodeon (Russia) (576p)
@@ -1789,8 +1801,6 @@ https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 http://stream.mcquack.net/60/index.m3u8
 #EXTINF:-1 group-title="👶 Детские каналы",O! International (576p)
 https://fs.uplink.kz/o/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="👶 Детские каналы",Ryzhiy (576i)
-https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="👶 Детские каналы",STS kids International (576p)
 https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="👶 Детские каналы",Smotrim 100% Detskoe (720p)
@@ -1801,28 +1811,16 @@ http://stream.mcquack.net/111/index.m3u8
 http://stream.mcquack.net/111/index.m3u8
 #EXTINF:-1 group-title="👶 Детские каналы",Tooku (1080p)
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
-#EXTINF:-1 group-title="👶 Детские каналы",V gostyakh u skazki (1080p)
-https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="👶 Детские каналы",В гостях у сказки
-https://stream8.cinerama.uz/1270/index.m3u8
 #EXTINF:-1 group-title="👶 Детские каналы",Капитан Фантастика (2)
 http://stream.mcquack.net/144/index.m3u8
-#EXTINF:-1 group-title="👶 Детские каналы",Карусель (2)
-https://stream8.cinerama.uz/1034/index.m3u8
 #EXTINF:-1 group-title="👶 Детские каналы",Мама (2)
 http://stream.mcquack.net/79/index.m3u8
 #EXTINF:-1 group-title="👶 Детские каналы",Маша и Медведь
 https://lbgo.bozztv.com/07/ushba79/index.m3u8
-#EXTINF:-1 group-title="👶 Детские каналы",Мульт
-https://stream8.cinerama.uz/1246/index.m3u8
 #EXTINF:-1 group-title="👶 Детские каналы",МультСказки
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="👶 Детские каналы",Мультиландия
-https://stream8.cinerama.uz/1440/index.m3u8
 #EXTINF:-1 group-title="👶 Детские каналы",О!
 http://stream.mcquack.net/60/index.m3u8
-#EXTINF:-1 group-title="👶 Детские каналы",Рыжий
-https://stream8.cinerama.uz/1407/index.m3u8
 #EXTINF:-1 group-title="👶 Детские каналы",СТС Kids (2)
 http://stream.mcquack.net/197/index.m3u8
 #EXTINF:-1 group-title="👶 Детские каналы",Смайл (2)
@@ -1831,8 +1829,6 @@ https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/index.m3u8
 https://tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1 group-title="👶 Детские каналы",Тооку
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
-#EXTINF:-1 group-title="👶 Детские каналы",Уникум
-https://stream8.cinerama.uz/1033/index.m3u8
 #EXTINF:-1 group-title="👶 Детские каналы",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="📰 Новости",360 Новости (3)
@@ -1921,8 +1917,6 @@ http://89.104.114.24:8080/art/index.m3u8
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Arkhyz 24 (1080p)
 https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",Arsenal (576p)
-https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Balabol (1080p)
 https://cdn-dvr.ntv.ru/Balabol/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Belgorod 24 (1080p)
@@ -1933,8 +1927,6 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="📺 Общие каналы",Bober (576p)
 https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="📺 Общие каналы",CGTN Русский (2)
-https://stream8.cinerama.uz/1456/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",CNN
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Channel 10 (Russia) (576i)
@@ -1965,12 +1957,8 @@ https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Dikaya rybalka HD (1080p)
 http://stream.mcquack.net/275/index.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",Domashnie Zhivotnye (576p)
-https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Domashniy (576p)
 http://stream.mcquack.net/227/index.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",Drive (576i)
-https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Duma TV (720p)
 http://185.23.80.23:8080/DumaTV/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Dushevnoe HD (1080p)
@@ -2007,8 +1995,6 @@ https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Istoki (1080p)
 https://istoki.tv/live/stream1/playlist.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",JTV | Казахстан
-https://stream8.cinerama.uz/1488/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",KVN TV (576p)
 http://178.124.179.122:8080/KVN-TV/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Komedia (576p)
@@ -2085,8 +2071,6 @@ http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 http://flussonic.linkintel.ru/otr/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",OTV-Prim
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",Ohotnik i rybolov (576i)
-https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Ohotnik i rybolov HD (1080p)
 http://stream.mcquack.net/194/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Okhota i rybalka (576p)
@@ -2111,8 +2095,6 @@ https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Prosveshchenie (576p)
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",Qazaqstan (2) | Казахстан
-https://stream8.cinerama.uz/1431/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Qazaqstan | Казахстан
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",RT Documentary Russian (1080p)
@@ -2159,6 +2141,8 @@ https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Smotrim 100% Fakty (720p)
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+#EXTINF:-1 group-title="📺 Общие каналы",Smotrim 100% Lyubov (720p)
+https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Smotrim 100% Muzhskoe (720p)
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Smotrim 100% Prazdnik (720p)
@@ -2185,8 +2169,6 @@ http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 http://stream.mcquack.net/168/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",TNT (576p)
 http://stream.mcquack.net/135/index.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",TNT International Belarus (1080p)
-http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",TNT4 (576p)
 http://flussonic.linkintel.ru/tnt4/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",TNV-Planet (576p)
@@ -2195,8 +2177,6 @@ https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv
 https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",TV BRICS Russian (1080p)
 http://185.23.80.23:8080/TVBRICS/index.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",TV Centr International (576p)
-https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",TV PRO
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",TV Rain (1080p) [Geo-blocked]
@@ -2217,8 +2197,6 @@ https://streaming.televizor-24-tochka.ru/live/24.m3u8
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Telekanal Krasnodar (1080p)
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",Tochka otryva (576p)
-https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Tonus (576p)
 http://194.143.148.28:8080/Mir24/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Tsargrad TV (1080p) [Geo-blocked]
@@ -2257,20 +2235,12 @@ http://live-3.otcnet.ru/wfcrus/index.m3u8
 http://195.26.83.96:7029/play/a006
 #EXTINF:-1 group-title="📺 Общие каналы",Yuvelirochka (576p)
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",Za! TV
-https://streaming.televizor-24-tochka.ru/live/25.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Zagorodnaya Zhizn (576p)
 http://185.57.68.33/40/index.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",Zdorovoe TV (576p)
-https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",Zhivaya Planeta (576p)
-https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Zhivaya priroda (1080p)
 http://stream.mcquack.net/83/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Zhivaya priroda HD (1080p)
 http://stream.mcquack.net/225/index.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",Zoopark (576i)
-https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Zvezda Plus HD (1080p)
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",viju Explore (576p)
@@ -2299,8 +2269,6 @@ https://serv25.vintera.tv/test/aris/playlist.m3u8
 https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Архыз 24 | Карачаево-Черкесия
 https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",Барс (2) | Иваново
-https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=ZrXipYUZHniVrAVSwMJWhQ&e=2070623501&scheme=https
 #EXTINF:-1 group-title="📺 Общие каналы",Беларусь 1 | Беларусь
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Беларусь 2 | Беларусь
@@ -2335,6 +2303,8 @@ https://ngtrk.dc.beltelecom.by/vtv/vitebsk.stream/index.m3u8
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Волга 24 (2) | Нижний Новгород
 http://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8
+#EXTINF:-1 group-title="📺 Общие каналы",Волейбол
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=5eCXZGvblic9uGykEPvBYw&e=2082370462&scheme=https
 #EXTINF:-1 group-title="📺 Общие каналы",Волжский+ | Волгоградская область
 http://flussonic.powernet.com.ru:8080/volplus/index.fmp4.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Вся Уфа | Башкортостан
@@ -2347,8 +2317,6 @@ https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 https://live-3.otcnet.ru/dimgrad/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Домашний (2)
 http://stream.mcquack.net/227/index.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",Домашний International
-https://stream8.cinerama.uz/1436/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Евразия | Орск
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Енисей (3) | Красноярск
@@ -2383,16 +2351,12 @@ https://tw2ywfm7jbp.a.trbcdn.net/livemaster/w91n1qa6dh_kolymaplus_live/playlist.
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Крик (2) | Свердловская область
 https://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",Крик | Свердловская область
-https://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Крым 24 (2) | Крым
 https://streaming.televizor-24-tochka.ru/live/28.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Культ Медиа (2) | Астрахань
 http://213.108.175.226/telplushd/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",ЛДПР ТВ
 http://46.46.143.222:1935/live/ldpr.stream_480p/playlist.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",Липецкое время 24 (3) | Липецкая область
-https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=IOkUTZHoPSqNn0IukRgYNw&e=2070623511&scheme=https
 #EXTINF:-1 group-title="📺 Общие каналы",МТРК | Казахстан
 https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Мир (3)
@@ -2421,8 +2385,8 @@ http://62.76.73.38/hls/stream.m3u8
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",НСТ
 http://176.118.197.101/HCT/index.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",НТВ (2)
-https://cdn.ntv.ru/ntv-msk_hd/index.m3u8
+#EXTINF:-1 group-title="📺 Общие каналы",НТВ (4)
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
 #EXTINF:-1 group-title="📺 Общие каналы",НТВ +1 (2)
 https://cdn.ntv.ru/ntv1/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",НТВ +2 (2)
@@ -2431,8 +2395,8 @@ https://cdn.ntv.ru/ntv2/index.m3u8
 https://cdn.ntv.ru/ntv4/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",НТВ +7 (2)
 https://cdn.ntv.ru/ntv7/index.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",НТВ Мир (3)
-https://streaming.televizor-24-tochka.ru/live/213.m3u8
+#EXTINF:-1 group-title="📺 Общие каналы",НТВ Мир (2)
+http://5.188.159.128:8070/ntvmir_TV/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",НТВ Стиль
 https://cdn.ntv.ru/th_style/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",НТВ Хит
@@ -2499,6 +2463,8 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy/index.m3u8
 http://stream.mcquack.net/121/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Прима (2) | Красноярск
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
+#EXTINF:-1 group-title="📺 Общие каналы",Про жизнь (2) | Кемеровская область
+https://27trk.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Пятница (2)
@@ -2557,14 +2523,12 @@ https://serv30.vintera.tv/sochi/sochi24_tv/playlist.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",Союзный
-https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
+#EXTINF:-1 group-title="📺 Общие каналы",Союзный (2)
+http://radio.tvs.by/TRO/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Спас (2)
 https://bonusspas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",Среда | Дагестан
-https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=-O-Abonlwf-bYzT5hrypYg&e=2070623505&scheme=https
 #EXTINF:-1 group-title="📺 Общие каналы",Суббота (2)
 http://stream.mcquack.net/269/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",ТАСС
@@ -2575,8 +2539,6 @@ https://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
 https://5d23269b3ec0c.streamlock.net/WEB_TBN/TBN.stream/playlist.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",ТВ Центр (2)
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",ТВ Центр International
-https://stream8.cinerama.uz/1281/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",ТВ-3 | Беларусь
 http://radio.tvs.by/TB-3/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",ТВ3 (2)
@@ -2615,8 +2577,6 @@ https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 https://hls.tv.3angels.ru/stream.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Тюменское время (2) | Тюмень
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
-#EXTINF:-1 group-title="📺 Общие каналы",Хабар 24 | Казахстан
-https://stream8.cinerama.uz/1408/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Хузур
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Экспресс (2) | Пенза
@@ -2627,6 +2587,8 @@ https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 http://stream.novouralsk-news.ru/echotv24/live.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Ю (3)
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
+#EXTINF:-1 group-title="📺 Общие каналы",ЮТВ (2) | Чувашия
+https://utv.iptv2022.com/index.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",Югра (2) | ХМАО-Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 #EXTINF:-1 group-title="📺 Общие каналы",ЯПервый (2) | Ярославская область
@@ -2697,12 +2659,8 @@ http://stream.mcquack.net/180/index.m3u8
 http://stream.mcquack.net/70/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",555 Hunt Fishing TV
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",Animal Planet
-https://stream8.cinerama.uz/1043/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",BRICS (3)
 http://185.23.80.23:8080/TVBRICS/index.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",Da Vinci
-https://stream8.cinerama.uz/1231/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Discovery (2)
 http://stream.mcquack.net/177/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Investigation Discovery
@@ -2713,14 +2671,10 @@ https://stitch.teletarget.ru/peerstv/joycook/index.m3u8
 https://api.alpaca.t62a.com/hls/9110/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Moya stikhiya HD (1080p)
 http://stream.mcquack.net/141/index.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",NHK World
-https://stream8.cinerama.uz/1449/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Nano Нано
 http://stream.mcquack.net/419/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",National Geographic (2)
 http://stream.mcquack.net/116/index.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",National Geographic Wild
-https://stream8.cinerama.uz/1042/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",One Planet
 http://stream.mcquack.net/448/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",RAZ 1
@@ -2741,8 +2695,8 @@ http://stream.mcquack.net/450/index.m3u8
 http://stream.mcquack.net/231/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Travel XP
 http://stream.mcquack.net/451/index.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",Travel+Adventure (2)
-http://77.232.131.211/TravelAdventureHD/index.m3u8
+#EXTINF:-1 group-title="🔬 Познавательные",Travel+Adventure
+http://stream.mcquack.net/206/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Travel+Adventure HD (1080p)
 http://stream.mcquack.net/206/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Univer (Универ)
@@ -2755,18 +2709,12 @@ http://178.124.179.122/HistoryHD/index.m3u8
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Viju+ Planet
 http://stream.mcquack.net/240/index.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",ZooПарк Зоопарк
-https://stream8.cinerama.uz/1417/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",viju History (576p)
 http://178.124.179.122:8080/HistoryHD/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",viju Nature (576p)
 https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="🔬 Познавательные",Авто 24 (3)
 http://stream.mcquack.net/78/index.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",Авто Плюс
-https://stream8.cinerama.uz/1036/index.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",Арсенал
-https://stream8.cinerama.uz/1414/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",В мире животных (2)
@@ -2781,40 +2729,22 @@ http://stream.mcquack.net/264/index.m3u8
 http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Дикая рыбалка
 http://stream.mcquack.net/275/index.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",Дикий
-https://stream8.cinerama.uz/1230/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Доктор (2)
 http://stream.mcquack.net/80/index.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",Домашние Животные
-https://stream8.cinerama.uz/1426/index.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",Драйв
-https://stream8.cinerama.uz/1421/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Живая Планета (2)
 http://stream.mcquack.net/83/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Живая природа (2)
 http://stream.mcquack.net/225/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Живи активно (2)
 https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",Живи!
-https://stream8.cinerama.uz/1419/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Загородная жизнь
 http://185.57.68.33/40/index.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",Загородный
-https://stream8.cinerama.uz/1044/index.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",Здоровое
-https://stream8.cinerama.uz/1428/index.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",История
-https://stream8.cinerama.uz/1266/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Конгресс
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Кухня (3)
 http://stream.mcquack.net/179/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Магнат
 https://s1.tv-nano.com/Magnat/index.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",Матч! Планета
-https://stream8.cinerama.uz/1243/index.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",Моя планета
-https://stream8.cinerama.uz/1247/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Моя стихия
 http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Мужской
@@ -2833,12 +2763,8 @@ https://v4.proofix.ru/0mir/index.m3u8
 http://stream.mcquack.net/155/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Охотник и рыболов (2)
 http://stream.mcquack.net/194/index.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",Охотник и рыболов Int.
-https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=QzqPo5cuxaeOJDvPy-nBvg&e=2070623488&scheme=https
 #EXTINF:-1 group-title="🔬 Познавательные",ПРНК
 https://serv25.vintera.tv/1pnk/prnk/playlist.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",Первый космический
-https://stream8.cinerama.uz/1415/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Полет
 http://stitch.teletarget.ru/vintera/flighttv/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Приключения (2)
@@ -2851,16 +2777,6 @@ https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",ТНВ Планета | Татарстан
 https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",Телекафе
-https://stream8.cinerama.uz/1035/index.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",Техно 24 Т24 (2)
-https://stream8.cinerama.uz/1037/index.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",Тонус
-http://194.143.148.28/Mir24/index.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",Точка Отрыва
-https://stream8.cinerama.uz/1031/index.m3u8
-#EXTINF:-1 group-title="🔬 Познавательные",Точка.РФ (2)
-https://stream8.cinerama.uz/1222/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Трофей
 http://stream.mcquack.net/357/index.m3u8
 #EXTINF:-1 group-title="🔬 Познавательные",Усадьба (2)
